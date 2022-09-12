@@ -1,2 +1,5 @@
 O projeto se trata de um problema de classificação, onde o objetivo é prever se a pessoa ganha mais de 50 mil ou menos.
-Para rodar o projeto é necessário das base de treino e teste: wage_train.csv e wage_teste_csv, das bibliotecas do Python que estão em requirements e seguir o código da modelagem disponível em Leon_Lighthouse_Predicao
+
+No arquivo de EDA foi feito uma analíse exploratória no arquivo wage_train.csv
+
+No arquivo de predição foi realizados os procedimentos em wage_train.csv e depois foi feito a previsão em wage_test.csv
